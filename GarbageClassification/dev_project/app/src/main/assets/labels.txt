@@ -1,0 +1,99 @@
+Aluminic_acid_battery
+Apple_Core
+Bandage
+Battery
+Beans
+Bread
+Broken brick
+Broken toilet
+Broken_ceramic_bowl
+Building_Blocks
+Button_Battery
+Cake biscuit
+Cans
+Carton
+Ceramic_flower_pot
+Cigarette
+Circuit_board
+Crisper_box
+Diaper
+Disinfectant
+Dried nuts
+Emulsion_tank
+Energy_saving_lamp
+Expired_capsule_drug
+Expired_drug
+Fish and shrimp
+Fluorescent_lamp
+Foam_plastic
+Garbage_plastic_bag
+Glass_magnifier
+Gravel block
+Halogen_lamp
+Insecticide_spray
+Knife
+Laptop
+Lime_soil
+Meals
+Mercury_thermometer
+Mobile phone
+Nail_clipper
+Napkin
+Newspaper
+Nickel_chrome_battery
+Non_destructive_paper
+Paper_bag
+Pet feed
+Pharmaceutical_Packaging
+Photo film
+Pill
+Plastic_hangers
+Plastic_oil_drum
+Plasticine
+Plush_toy
+Rat_medicine
+Rechargeable_Battery
+Rice
+Rice cooker
+Sheets
+Sticky_board
+TV set
+Underwear
+Waste mortar
+Window glass
+Wine_bottle
+X_ray film
+air conditioning
+animal organs
+bed
+blade
+book
+chicken
+clothes
+envelope
+flowers
+glass
+hair
+leather shoes
+mattress
+medicine dregs
+package
+packaging_box
+pen
+pillows
+plastic_bottle
+plastic_toys
+pot
+pressure_monitor
+refrigerator
+screwdriver
+shattered_glass
+socket
+sofa
+table
+tape
+toilet_paper
+towel
+vegetables
+washing machine
+wire
